@@ -1,0 +1,23 @@
+body {
+	text-align: center;
+	background-color: rgba(82, 136, 53, 0.2);
+}
+
+
+img	{
+	width: 150px;
+	height: 120px;
+	border-radius: 50%;
+}
+
+.title {
+    display flex: space-between ;
+    text-align: center ;
+    align-items: left ;
+}
+
+.recip-card{
+text-align: center;
+display flex: space-between ;
+}
+
